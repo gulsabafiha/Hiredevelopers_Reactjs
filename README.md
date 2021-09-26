@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Gulsaba Fiha's React Assignment
 
 This project is a React app .
 
