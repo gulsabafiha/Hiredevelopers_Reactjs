@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Tom Christie",
+      "designation": "Senior web developer",
+      "charge": 25000,
+      "experience": "5yr",
+      "speciality": "React Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/tom_christie.jpg"
+    },
+    {
+      "name": "Guido van Rossum",
+      "designation": "Distinguished Engineer at Microsoft",
+      "charge": 24000,
+      "experience": "4yr",
+      "speciality": "Python Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Guido-van-Rossum_0.jpg"
+    },
+    {
+      "name": "Ewa Jodlowska",
+      "designation": "Executive Director for the Python Software Foundation",
+      "charge": 23000,
+      "experience": "6yr",
+      "speciality": "Python Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Ewa-Jodlowska_0.jpg"
+    },
+    {
+      "name": "Anders Hejlsberg",
+      "designation": "Chief architect of Delphi",
+      "charge": 29000,
+      "experience": "5yr",
+      "speciality": "C# Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Lukasz-Langa.png"
+    },
+    {
+      "name": "Tomaz Muraus",
+      "designation": "Senior web developer",
+      "charge": 25000,
+      "experience": "5yr",
+      "speciality": "React Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Tomaz-Muraus.jpg"
+    },
+    {
+      "name": "Phil Greenberg",
+      "designation": "Freelance React.js Developer",
+      "charge": 25000,
+      "experience": "7yr",
+      "speciality": "React Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Kevin-Goldsmith.jpg"
+    },
+    {
+      "name": "Juraj Husár",
+      "designation": "Senior Front End Developer",
+      "charge": 29000,
+      "experience": "8yr",
+      "speciality": "Angular Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Jen-Walraven.jpeg"
+    },
+    {
+      "name": "Gabriel Courtemanche",
+      "designation": "Senior Backend developer",
+      "charge": 50000,
+      "experience": "3yr",
+      "speciality": "Django Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/audrey_roy_greenfield.jpeg"
+    },
+    {
+      "name": "Davor Badrov",
+      "designation": "Jr UI/UX Engineer",
+      "charge": 20000,
+      "experience": "1yr",
+      "speciality": "Adobe/XD",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Daniel-Roy-Greenfeld.jpeg"
+    },
+    {
+      "name": "Andrew Miller",
+      "designation": "Senior web developer",
+      "charge": 55000,
+      "experience": "2yr",
+      "speciality": "Django Developer",
+      "img": "https://newrelic.com/sites/default/files/wp_blog_inline_files/Reshama-Shaikh.jpg"
+    }
+  ]
