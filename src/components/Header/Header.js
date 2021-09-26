@@ -7,7 +7,7 @@ const Header = props => {
         <div>
             <div className='header'>
                 <h1 >Hire Developers for Your Project</h1>
-                <h3>Total Budget: $200000</h3>
+                <h3>Total Budget: 200 Million</h3>
                 
             </div>
         </div>

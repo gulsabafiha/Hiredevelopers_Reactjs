@@ -8,8 +8,7 @@ const AddItem = props => {
     let names = [];
     for (const addItem of add) {
         total = total + addItem.charge;
-        names =names+ addItem.name;
-       
+        names =names+ addItem.name + ' , ';
     }
     return (
         <div style={{
@@ -25,9 +24,9 @@ const AddItem = props => {
         }}>
             
             <h2>Total Devlopers:   {props.add.length}</h2>
-            <h4>Total Charge:  {total} </h4>
+            <h4>Total Charge:  $ {total} </h4>
             <hr />
-            <h3>List of developers: <li>{names}</li> </h3>
+            <p>{names}</p>
         </div>
     );
 };
